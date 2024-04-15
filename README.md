@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Pundpal</h1>
 <h3 align="center">Interested in Software development | Web Development | Data Science</h3>
-<img align="right" alt="Coding" width="370" height="270" src="https://img.freepik.com/premium-vector/astronaut-is-working-computer_346903-2060.jpg">
+<img align="right" alt="Coding" width="370" height="300" src="https://img.freepik.com/premium-vector/astronaut-is-working-computer_346903-2060.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspundpal&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspundpal" /> </p>
 
